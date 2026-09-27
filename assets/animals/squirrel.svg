@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350">
+<rect width="500" height="350" fill="#f3ead8"/>
+<circle cx="250" cy="175" r="75" fill="#b86b32"/>
+<circle cx="205" cy="105" r="35" fill="#b86b32"/>
+<circle cx="295" cy="105" r="35" fill="#b86b32"/>
+<circle cx="225" cy="165" r="7"/><circle cx="275" cy="165" r="7"/>
+<text x="250" y="285" text-anchor="middle" font-family="Arial" font-size="28">Білочка</text>
+</svg>

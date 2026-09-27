@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350">
+<rect width="500" height="350" fill="#dcefd8"/>
+<circle cx="390" cy="75" r="45" fill="#f2c94c"/>
+<path d="M0 260 Q120 160 240 260 T500 250 V350 H0Z" fill="#6aa84f"/>
+<path d="M80 250 L145 120 L210 250Z" fill="#39734a"/>
+<path d="M220 250 L300 90 L380 250Z" fill="#315f3d"/>
+<text x="250" y="325" text-anchor="middle" font-family="Arial" font-size="26">Природа</text>
+</svg>
